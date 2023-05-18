@@ -1,0 +1,19 @@
+#parent {
+	text-align: center;
+    margin-top: 100px;
+}
+#calendar {
+	display: inline-block;
+}
+#calendar td, #calendar th {
+    
+	padding: 50px 120px;
+	border: 1px solid rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+	text-align: center;
+}
+
+table {
+
+    font-size: 20px;
+}
